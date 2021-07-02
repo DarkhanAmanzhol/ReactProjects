@@ -1,1 +1,1 @@
-Hello, it is my first authentication based on js
+Hello, it is my first projects based on React JS
